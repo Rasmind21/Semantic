@@ -1,0 +1,88 @@
+.ui.menu{
+    background-color: #2c3e50 !important;
+    border-radius: 0!important;
+    color: white;
+    font-size: 10px !important
+    ; 
+    
+}
+.ui.menu .item{
+    line-height: 3!important;
+    color: white!important;
+}
+
+.start{
+    font-size: 20px;
+}
+
+
+.avatar {
+    background-color: #1abc9c!important;
+    color: white;
+    padding-top: calc(6rem + 74px);
+    text-align: center !important;
+    padding-bottom: 6rem;
+    align-items: center !important;
+    font-size: 20px;
+}
+
+.avatar .ui.medium.circular.image{
+    width: 200px;
+    transform:translate(235%,10%);
+    
+}
+
+.text-avatar{
+font-size: 50px;
+}
+
+.about{
+    background-color: #1abc9c!important;
+    color: white;
+    text-align: center !important;
+    padding-bottom: 6rem;
+    text-align: center !important;
+    font-size: 20px;
+   
+}
+
+.ui.tiny.images .ui.image{
+    width: 350px !important;
+    border-radius: 10px;
+}
+
+.redes{
+    transform:translate(90%,0%);
+    font-size: 20px;
+    justify-content: center;
+}
+
+.porta{
+    font-size: 30px;
+    text-align: center;
+}
+
+.porta .h1{
+    font-size: 45;
+}
+
+.textf{
+    color: #1abc9c;
+}
+
+.final{
+    background-color: #1a252f !important;
+    text-align: center;
+    color: white;
+}
+
+.contact{
+    text-align: center;
+    font-size: 35px;
+}
+
+.send .ui button{
+    width: 100px;
+    height: 65px;
+}
+
